@@ -1,0 +1,16 @@
+{
+  "CONTRACT_ADDRESS": "0x6de793BC279e44069BE218F4B20fF8e2545226fC",
+  "SCAN_LINK": "https://explorer.celo.org/address/0x6de793BC279e44069BE218F4B20fF8e2545226fC",
+  "NETWORK": {
+    "NAME": "Celo (Mainnet)",
+    "SYMBOL": "CELO",
+    "ID": 42220
+  },
+  "NFT_NAME": "MustangDAONFT",
+  "SYMBOL": "STANG",
+  "MAX_SUPPLY": 6969,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "SHOW_BACKGROUND": true
+}
